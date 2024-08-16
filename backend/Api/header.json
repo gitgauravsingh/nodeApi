@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "6687a02c2e777cf278d748a1",
+    "header": [
+      {
+        "id": 1,
+        "title": "HOME",
+        "url": "/"
+      },
+      {
+        "id": 2,
+        "title": "OUR PROJECT",
+        "url": "/OUR PROJECT"
+      },
+      {
+        "id": 3,
+        "title": "WHY DURAI",
+        "url": "/WHY DURAI"
+      },
+      {
+        "id": 4,
+        "title": "ARTICLES",
+        "url": "/ARTICLES"
+      },
+      {
+        "id": 5,
+        "title": "OFFERS",
+        "url": "/OFFERS"
+      }
+    ]
+  }
+]
