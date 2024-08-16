@@ -14,8 +14,14 @@ app.get("/header", (req, res) => {
 const bannerdata = fs.readFileSync(`${__dirname}/Api/banner.json`, "utf-8");
 const banner = JSON.parse(bannerdata);
 
-app.get("/header", (req, res) => {
+app.get("/banner", (req, res) => {
   res.json(banner);
+});
+const featersdata = fs.readFileSync(`${__dirname}/Api/featers.json`, "utf-8");
+const featers = JSON.parse(featersdata);
+
+app.get("/featers", (req, res) => {
+  res.json(featers);
 });
 
 app.listen(port, function () {
