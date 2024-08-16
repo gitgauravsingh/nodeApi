@@ -11,6 +11,13 @@ const data = JSON.parse(headerData);
 app.get("/header", (req, res) => {
   res.json(data);
 });
+const bannerdata = fs.readFileSync(`${__dirname}/Api/banner.json`, "utf-8");
+const banner = JSON.parse(bannerdata);
+
+app.get("/header", (req, res) => {
+  res.json(banner);
+});
+
 app.listen(port, function () {
   console.log("server running");
 });
