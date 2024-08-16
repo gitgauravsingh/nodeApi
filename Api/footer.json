@@ -1,0 +1,39 @@
+[
+  {
+    "_id": "668bce75c0c8d6e2900514fd",
+    "footer": [
+      {
+        "connect": [
+          {
+            "id": 1,
+            "title": "CONNECT WITH US",
+            "text": "CREDO INVESTMENTS FZE",
+            "paragraph": "First Floor, Le Solarium Building Dubai Silicon Oasis, Dubai, U.A.E",
+            "number": "T: +971 4 335 5092",
+            "email": "E: info@credouae.com"
+          }
+        ],
+        "LATESTNEWS": [
+          {
+            "id": 1,
+            "date": "03 Apr",
+            "paragraph1": "Unveiling the Phenomenon: Why Dubai South Properties are Skyrocketing",
+            "date1": "25 Jan",
+            "paragraph2": "Unlocking the Potential: Top 10 Reasons to Invest in Dubai Real Estate in 2024",
+            "date2": "02 May",
+            "paragraph3": "Investing in Dubai Real Estate in 2023: Why do Investors from around the world do it?Investing in Dubai Real Estate in 2023: Why do Investors from around the world do it?",
+            "comment": "1 Comment",
+            "main": "LATEST NEWS"
+          }
+        ],
+        "SIGNUP": [
+          {
+            "heading": "SIGNUP FOR NEWSLETTER",
+            "title": "Signup to get news about Credo Investments FZE. We don’t spam!",
+            "sign": "SIGN UP"
+          }
+        ]
+      }
+    ]
+  }
+]

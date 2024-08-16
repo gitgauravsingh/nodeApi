@@ -23,6 +23,12 @@ const featers = JSON.parse(featersdata);
 app.get("/featers", (req, res) => {
   res.json(featers);
 });
+const footerdata = fs.readFileSync(`${__dirname}/Api/footer.json`, "utf-8");
+const footer = JSON.parse(footerdata);
+
+app.get("/footer", (req, res) => {
+  res.json(footer);
+});
 
 app.listen(port, function () {
   console.log("server running");
