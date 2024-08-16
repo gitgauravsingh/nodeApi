@@ -29,6 +29,12 @@ const footer = JSON.parse(footerdata);
 app.get("/footer", (req, res) => {
   res.json(footer);
 });
+const aboutdata = fs.readFileSync(`${__dirname}/Api/about.json`, "utf-8");
+const about = JSON.parse(aboutdata);
+
+app.get("/aboutpage", (req, res) => {
+  res.json(about);
+});
 
 app.listen(port, function () {
   console.log("server running");

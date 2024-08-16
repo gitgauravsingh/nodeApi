@@ -1,0 +1,55 @@
+[
+  {
+    "_id": "668d1e09dc7f6c0252492b6b",
+    "about": [
+      {
+        "id": 1,
+        "title": "ABOUT US",
+        "img": "https://www.credouae.com/wp-content/uploads/2022/07/diverse-businesspeople-having-meeting-1400x623.jpg",
+        "Credo": [
+          {
+            "id": 1,
+            "heading": "Credo Investments FZE",
+            "title": "As one of the Dubai’s leading luxury and premium developers, Credo Investments FZE develops innovative and creative living homes for the luxury lifestyle.",
+            "title1": "We are providing outstanding commercial and residential developments in United Arab Emirates since 2005.",
+            "title2": "With global interest spanning from transport & IT to trading & real estate, Credo’s professional team has forged a reputation for consistently delivering prestigious real estate developments in Dubai, UAE.",
+            "title3": "Renowned for its business acumen, credo has formed alliances with industry leaders in designing, architecture and construction to develop landmark projects such as The Prism at Business Bay, Le Solarium & Le Presidium at Dubai Silicon Oasis and Mon Reve at Downtown Dubai, in the heart of commercial & business sector, the Burj Khalifa District.",
+            "img": "https://www.credouae.com/wp-content/uploads/2022/07/best-property-in-dubai-Mon-Reve-Ext.jpg",
+            "img1": "https://www.credouae.com/wp-content/uploads/2019/07/m1-2-3.jpg"
+          }
+        ],
+        "AboutOurProjects": [
+          {
+            "id": 1,
+            "heading": "About Our Projects",
+            "text1": "Majestique Residence",
+            "text2": "Mon Reve",
+            "text3": "Le Solarium",
+            "text4": "Le Presidium",
+            "text5": "The Prism",
+            "img": "https://www.credouae.com/wp-content/uploads/2022/07/brooke-cagle-uHVRvDr7pg-unsplash.jpg",
+            "img1": "https://www.credouae.com/wp-content/uploads/2022/07/credo-customer-care.jpg",
+            "img2": "https://www.credouae.com/wp-content/uploads/2022/07/lara-far-PKTSHQMm-5c-unsplash.jpg",
+            "title": "Professional Sales Team",
+            "paragraph": "Our Sales team are highly experienced and professional.",
+            "title1": "Exclusive Customer Care",
+            "paragraph1": "Get premium assistance in buying a luxurious property by credo.",
+            "title2": "Wide Options Available",
+            "paragraph2": "We have multiple property options available to meet your need."
+          }
+        ],
+        "client": [
+          {
+            "id": 1,
+            "heading": "WHAT OUR CLIENT SAY ABOUT US",
+            "img": "https://www.credouae.com/wp-content/uploads/2022/07/portrait-successful-man-having-stubble-posing-with-broad-smile-keeping-arms-folded-280x280.jpg",
+            "img1": "https://www.credouae.com/wp-content/uploads/2022/07/beautiful-woman-wearing-hijab-280x280.jpg",
+            "paragraph": "Buying a property with the Credo Team was a pleasant experience for me. In the process of buying my dream home, they helped me at every stage. ",
+            "name": "Aaliyah / United Arab Emirates",
+            "img2": "https://www.credouae.com/wp-content/uploads/2022/07/testimonials-section-bg-slider-background.jpg"
+          }
+        ]
+      }
+    ]
+  }
+]
