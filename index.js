@@ -5,6 +5,10 @@ const fs = require("fs");
 const port = 5000;
 const app = express();
 
+app.use(express.json());
+
+app.use(cors());
+
 const headerData = fs.readFileSync(`${__dirname}/Api/header.json`, "utf-8");
 const data = JSON.parse(headerData);
 
